@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "ParOuImpar.C": "cpp",
+        "Cidade.C": "cpp",
+        "Compras.C": "cpp",
+        "Idade.C": "cpp",
+        "MultiplosDeCinco.C": "cpp",
+        "NegativoPositivoOuZero.C": "cpp",
+        "NumeroMaior.C": "cpp",
+        "PolegadasParaCentimetros.C": "cpp",
+        "SituaçãoCivil.C": "cpp"
+    }
+}
